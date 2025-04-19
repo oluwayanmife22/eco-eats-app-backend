@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(cors());
 
 // Import routes
-const itemRoutes = require('./src/routes/itemroutes'); 
+const itemRoutes = require('./src/routes/itemRoutes'); 
 const CategoryRoutes = require('./src/routes/categoryRoutes'); // Ensure this is the correct path
 
 async function main() {
