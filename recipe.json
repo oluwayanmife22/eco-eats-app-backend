@@ -1,0 +1,211 @@
+[
+    {
+    "menuId": 1,
+    "name": "Spaghetti Carbonara",
+    "thumbnail": "https://example.com/spaghetti.jpg",
+    "category": "Italian",
+    "instruction": "Cook pasta, fry pancetta, mix with eggs and Parmesan, season with pepper.",
+    "tags": ["pasta", "quick", "dinner"],
+    "ingredients": [
+      { "name": "Spaghetti", "quantity": "200g" },
+      { "name": "Pancetta", "quantity": "100g" },
+      { "name": "Eggs", "quantity": "2 large" },
+      { "name": "Parmesan Cheese", "quantity": "50g" },
+      { "name": "Garlic", "quantity": "2 cloves" }
+    ],
+    "comments": [
+      { "user": "Foodie123", "comment": "Best carbonara recipe I've tried!" },
+      { "user": "ChefMike", "comment": "Quick and easy to follow. Tastes amazing!" },
+      { "user": "HomeCook22", "comment": "I added some parsley for extra flavor — fantastic!" }
+    ],
+    "more": {
+      "prep_time": "10 mins",
+      "cook_time": "20 mins",
+      "servings": "2",
+      "difficulty": "Medium",
+      "source": "https://uploads-ssl.webflow.com/5dc471bed6111eb41d6e28dd/5dd8ee4d717b060cba2fe4d7_Quick%20Bacon%20Spaghetti%20Carbonara.jpeg"
+    }
+  }
+  
+    {
+      "menuId": 2,
+      "name": "Avocado Toast",
+      "thumbnail": "https://example.com/avocado-toast.jpg",
+      "category": "Breakfast",
+      "instruction": "Toast bread, mash avocado with lemon, season with salt and pepper.",
+      "tags": ["healthy", "quick", "vegan"],
+      "ingredients": [
+        { "name": "Sourdough Bread", "quantity": "2 slices" },
+        { "name": "Avocado", "quantity": "1 ripe" },
+        { "name": "Lemon Juice", "quantity": "1 tbsp" },
+        { "name": "Salt", "quantity": "To taste" },
+        { "name": "Red Pepper Flakes", "quantity": "Optional" }
+      ],
+      "comments": [                                                                                                 
+        { "user": "HealthyLife", "comment": "Perfect breakfast!" }
+      ],
+      "more": {
+        "prep_time": "5 mins",
+        "cook_time": "5 mins",
+        "servings": "1",
+        "difficulty": "Easy",
+        "source": "https://th.bing.com/th/id/OIP.xZLKIFccQXAuoFVxyL7BswHaLH?rs=1&pid=ImgDetMain"
+      }
+    },
+    {
+      "menuId": 3,
+      "name": "Chicken Tikka Masala",
+      "thumbnail": "https://example.com/tikka-masala.jpg",
+      "category": "Indian",
+      "instruction": "Marinate chicken, cook in spiced tomato sauce, serve with rice or naan.",
+      "tags": ["spicy", "dinner", "comfort food"],
+      "ingredients": [
+        { "name": "Chicken Breast", "quantity": "500g" },
+        { "name": "Yogurt", "quantity": "1 cup" },
+        { "name": "Tomato Puree", "quantity": "400g" },
+        { "name": "Garam Masala", "quantity": "2 tsp" },
+        { "name": "Cream", "quantity": "100ml" }
+      ],
+      "comments": [
+        { "user": "CurryKing", "comment": "Authentic taste!" },
+        { "user": "SpicyQueen", "comment": "Best masala ever!" }
+      ],
+      "more": {
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "servings": "4",
+        "difficulty": "Medium",
+        "source": "https://th.bing.com/th/id/OIP.KoZAKMbPQenQN732504HvgHaLF?rs=1&pid=ImgDetMain"
+      }
+    },
+    {
+      "menuId": 4,
+      "name": "Chocolate Brownies",
+      "thumbnail": "https://example.com/brownies.jpg",
+      "category": "Dessert",
+      "instruction": "Mix ingredients, bake at 180°C for 25 mins, cool before slicing.",
+      "tags": ["dessert", "sweet", "baking"],
+      "ingredients": [
+        { "name": "Dark Chocolate", "quantity": "200g" },
+        { "name": "Butter", "quantity": "150g" },
+        { "name": "Sugar", "quantity": "250g" },
+        { "name": "Eggs", "quantity": "3 large" },
+        { "name": "Flour", "quantity": "100g" }
+      ],
+      "comments": [
+        { "user": "ChocoLover", "comment": "Rich and gooey!" },
+        { "user": "BakerSue", "comment": "Perfect texture!" }
+      ],
+      "more": {
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "servings": "9",
+        "difficulty": "Easy",
+        "source": "https://th.bing.com/th/id/OIP.v71D1ROHD6ogu3u-08QV8gHaJo?rs=1&pid=ImgDetMain"
+      }
+    },
+    {
+      "menuId": 5,
+      "name": "Beef Tacos",
+      "thumbnail": "https://example.com/beef-tacos.jpg",
+      "category": "Mexican",
+      "instruction": "Cook beef with spices, assemble tacos with toppings.",
+      "tags": ["taco", "dinner", "quick"],
+      "ingredients": [
+        { "name": "Ground Beef", "quantity": "500g" },
+        { "name": "Taco Shells", "quantity": "8 shells" },
+        { "name": "Cheese", "quantity": "100g" },
+        { "name": "Lettuce", "quantity": "1 cup" },
+        { "name": "Salsa", "quantity": "1/2 cup" }
+      ],
+      "comments": [
+        { "user": "TexMexFan", "comment": "So flavorful!" },
+        { "user": "SpiceMaster", "comment": "I added extra chili – amazing!" }
+      ],
+      "more": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "servings": "4",
+        "difficulty": "Easy",
+        "source": "https://th.bing.com/th/id/R.82cd26c18ec636268f4cae81f19a3231?rik=gJwvhnofOJ1QTg&pid=ImgRaw&r=0"
+      }
+    },
+    {
+      "menuId": 6,
+      "name": "Vegan Buddha Bowl",
+      "thumbnail": "https://example.com/buddha-bowl.jpg",
+      "category": "Vegan",
+      "instruction": "Roast veggies, cook quinoa, arrange bowl with toppings.",
+      "tags": ["vegan", "healthy", "quick"],
+      "ingredients": [
+        { "name": "Quinoa", "quantity": "1 cup" },
+        { "name": "Chickpeas", "quantity": "1 can" },
+        { "name": "Broccoli", "quantity": "1 cup" },
+        { "name": "Carrots", "quantity": "2 large" },
+        { "name": "Tahini", "quantity": "2 tbsp" }
+      ],
+      "comments": [
+        { "user": "PlantPower", "comment": "Super filling and delicious!" }
+      ],
+      "more": {
+        "prep_time": "20 mins",
+        "cook_time": "25 mins",
+        "servings": "3",
+        "difficulty": "Medium",
+        "source": "https://elavegan.com/wp-content/uploads/2021/05/vegan-buddha-bowl-with-chickpeas-avocado-colorful-veggies-and-green-dressing-on-the-side.jpg"
+      }
+    }
+  {
+      "menuId": 7,
+      "name": "Shrimp Scampi",
+      "thumbnail": "https://example.com/shrimp-scampi.jpg",
+      "category": "Seafood",
+      "instruction": "Cook shrimp in garlic butter sauce, serve over pasta.",
+      "tags": ["seafood", "dinner", "quick"],
+      "ingredients": [
+        { "name": "Shrimp", "quantity": "400g" },
+        { "name": "Garlic", "quantity": "4 cloves" },
+        { "name": "Butter", "quantity": "50g" },
+        { "name": "Spaghetti", "quantity": "250g" },
+        { "name": "Parsley", "quantity": "2 tbsp" }
+      ],
+      "comments": [
+        { "user": "SeafoodFan", "comment": "So flavorful!" },
+        { "user": "ChefTom", "comment": "I added extra lemon – perfect!" }
+      ],
+      "more": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "servings": "4",
+        "difficulty": "Easy",
+        "source": "https://th.bing.com/th/id/OIP.puXN4cp8ZOZagJ0iD_6plwHaLH?rs=1&pid=ImgDetMain"
+      }
+    },
+    {
+      "menuId": 8,
+      "name": "Caprese Salad",
+      "thumbnail": "https://example.com/caprese-salad.jpg",
+      "category": "Salad",
+      "instruction": "Layer tomatoes, mozzarella, and basil; drizzle with olive oil and balsamic glaze.",
+      "tags": ["salad", "vegetarian", "fresh"],
+      "ingredients": [
+        { "name": "Tomatoes", "quantity": "3 large" },
+        { "name": "Mozzarella", "quantity": "200g" },
+        { "name": "Basil", "quantity": "1/4 cup" },
+        { "name": "Olive Oil", "quantity": "2 tbsp" },
+        { "name": "Balsamic Glaze", "quantity": "1 tbsp" }
+      ],
+      "comments": [
+        { "user": "SaladQueen", "comment": "Perfect summer dish!" },
+        { "user": "HealthGuru", "comment": "So simple yet amazing." }
+      ],
+      "more": {
+        "prep_time": "5 mins",
+        "cook_time": "0 mins",
+        "servings": "2",
+        "difficulty": "Easy",
+        "source": "https://th.bing.com/th/id/R.33bdff0cb4758df07a5a4a2efc1f2091?rik=pmLVtcR2ylvlKw&pid=ImgRaw&r=0"
+      }
+    }
+  ]
+  
