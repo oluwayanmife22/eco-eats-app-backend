@@ -11,6 +11,9 @@ app.use(cors());
 // Import routes
 const itemRoutes = require('./src/routes/itemRoutes'); 
 const CategoryRoutes = require('./src/routes/categoryRoutes'); // Ensure this is the correct path
+app.get('/', (req, res) => {
+  res.send('Eco eats app server is running!');
+});
 
 async function main() {
   try {
@@ -22,9 +25,7 @@ async function main() {
     app.use(`/api`, CategoryRoutes); // Ensure this is the correct path
 
     // Default route
-    app.get('/', (req, res) => {
-      res.send('Eco eats app server is running!');
-    });
+  
 
     // Start the server only after DB connection
     app.listen(port, () => {
